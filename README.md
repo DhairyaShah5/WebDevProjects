@@ -6,6 +6,4 @@
 4. https://dhairyashah5.github.io/WebDevProjects/Dice_Game_JS
 5. https://dhairyashah5.github.io/WebDevProjects/Drum_Kit_JS
 6. https://dhairyashah5.github.io/WebDevProjects/Weather_WebApp
-7. https://dhairyashah5.github.io/WebDevProjects/Story
-8. https://dhairyashah5.github.io/WebDevProjects/Story_2
-9. https://dhairyashah5.github.io/WebDevProjects/Expanding_Cards_CSS_JS
+7. https://dhairyashah5.github.io/WebDevProjects/Expanding_Cards_CSS_JS
