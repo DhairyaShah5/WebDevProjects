@@ -1,2 +1,11 @@
 # WebDevProjects
-https://dhairyashah5.github.io/WebDevProjects/
+0. https://dhairyashah5.github.io/WebDevProjects/
+1. https://dhairyashah5.github.io/WebDevProjects/CV_first_attempt
+2. https://dhairyashah5.github.io/WebDevProjects/CV_CSS_Second_Attempt
+3. https://dhairyashah5.github.io/WebDevProjects/Tindog_BootStrap
+4. https://dhairyashah5.github.io/WebDevProjects/Dice_Game_JS
+5. https://dhairyashah5.github.io/WebDevProjects/Drum_Kit_JS
+6. https://dhairyashah5.github.io/WebDevProjects/Weather_WebApp
+7. https://dhairyashah5.github.io/WebDevProjects/Story
+8. https://dhairyashah5.github.io/WebDevProjects/Story_2
+9. https://dhairyashah5.github.io/WebDevProjects/Expanding_Cards_CSS_JS
